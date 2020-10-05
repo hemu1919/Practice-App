@@ -1,0 +1,57 @@
+<resources>
+    <string name="dice_roller_app_name">Dice Roller</string>
+    <string name="about_me_app_name">About Me</string>
+    <string name="color_my_views_app_name">Color My Views</string>
+    <string name="trivia_app_name">Android Trivia</string>
+    <string name="roll">Roll</string>
+    <string name="rolling_dice">Rolling Dice</string>
+    <string name="my_name">Ann Handley</string>
+    <string name="yellow_star">Yellow Star Resource</string>
+    <string name="bio_text">If you\'re a marketer, you\'ve likely heard of Ann Handley. Her list of credentials is lengthy, and if she really wanted to, she could go on and on and on about her accomplishments.
+
+But when people list out all their accomplishments in their bios, they risk sounding a little egotistical. Sure, you might impress a handful of people with all those laurels, but many people who read your bio will end up feeling either intimidated or annoyed. Think about it: Is that how you want the majority of your readers to feel when they read your bio?
+
+To minimize the egoism that comes with talking about yourself, think about how you can list out your accomplishments without sounding like you\'re bragging. Ann does this really well, choosing a tone in her bio that\'s more approachable.
+
+It starts with the excerpt in the footer of her personal website. Give it a quick read, paying close attention to the opening and closing lines:
+
+Ann Handley\'s professional bio on her personal website
+
+"This is Ann Handley\'s website, and this is a bit of copy about her … That\'s not giving you a lot of detail, is it? So read more here." This is the kind of simple, friendly language that invites the reader in rather than shutting them out.
+
+Follow the link and you\'ll be led to a page dedicated to a fuller bio, which she\'s divided into two parts: a "short version" (literally a bulleted list of key facts) and a "long version," which includes traditional paragraphs. There\'s something in there for everyone.</string>
+    <string name="nickname_text_hint">What is your Nickname?</string>
+    <string name="done_button">Done</string>
+    <string name="box_one_text">Box One</string>
+    <string name="box_two_text">Box Two</string>
+    <string name="box_three_text">Box Three</string>
+    <string name="box_four_text">Box Four</string>
+    <string name="box_five_text">Box Five</string>
+    <string name="help_text">How to play:</string>
+    <string name="info_text">Tap the screen and buttons</string>
+    <string name="red_button">RED</string>
+    <string name="yellow_button">YELLOW</string>
+    <string name="green_button">GREEN</string>
+    <string name="game_over">Game Over</string>
+    <string name="try_again">Try Again?</string>
+    <string name="position">Position</string>
+    <string name="select_an_avatar">Select an Avatar</string>
+    <string name="android_trivia">Android Trivia</string>
+    <string name="about_text">Android Trivia will help remind you of important concepts you have learned and will learn in Android development.\n\nConsider modifying the questions and graphics to make this game your own!</string>
+    <string name="rules_text">Select the answer from the options given. Each time you get an answer correct, you advance to the next question.\n\nIf you get the answer wrong, your game ends! You can return to the title screen using up or back from within the game screen, and this will also end your game.</string>
+    <string name="rules">Rules</string>
+    <string name="about">About</string>
+    <string name="trivia_hint">Trivia Hint</string>
+    <string name="title_android_trivia_question">Android Trivia (%1$d/%2$d)</string>
+    <string name="title_about_trivia">About Trivia</string>
+    <string name="title_trivia_rules">Trivia Rules</string>
+    <string name="share_success_text">I mastered #UdacityAndroidTrivia with %1$d/%2$d correct questions!</string>
+    <string name="submit_button">Submit</string>
+    <string name="congratulations">Congratulations!</string>
+    <string name="share">Share</string>
+    <string name="sharing_not_available">Sharing Not Available</string>
+    <string name="play_string">Play</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="life_cycle_app_name">LifeCycle Viewer</string>
+</resources>
