@@ -35,7 +35,7 @@ class TriviaActivity : AppCompatActivity() {
             .setContentView<ActivityTriviaBinding>(this, R.layout.activity_trivia)
         val navController: NavController = findNavController(R.id.navigation_fragment)
         drawerLayout = binding.drawerLayout
-        navController.addOnDestinationChangedListener { controller, destination, arguments ->
+        navController.addOnDestinationChangedListener { controller, destination, _ ->
             if (destination.id == controller.graph.startDestination) {
                 drawerLayout.setDrawerLockMode(DrawerLayout.LOCK_MODE_UNLOCKED)
             } else {
