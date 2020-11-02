@@ -30,7 +30,6 @@ class TriviaActivity : AppCompatActivity() {
 
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
-        @Suppress("UNUSED_VARIABLE")
         val binding = DataBindingUtil
             .setContentView<ActivityTriviaBinding>(this, R.layout.activity_trivia)
         val navController: NavController = findNavController(R.id.navigation_fragment)
